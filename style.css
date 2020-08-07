@@ -27,7 +27,7 @@ a {
 /* Section-1 */
 
 .section-1 {
-    padding-top: 20vh;
+    padding-top: 10vh;
     text-align: center;
 }
 
@@ -45,6 +45,12 @@ a {
 .section-1 a {
     font-size: 1.5rem;
     padding: 10px;
+}
+
+.section-1 img {
+    width: 10vw;
+    height: 20vh;
+    border-radius: 50%;
 }
 
 
