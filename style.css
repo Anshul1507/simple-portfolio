@@ -9,8 +9,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: darkslategray;
-    color: darkseagreen;
+    background-color: #00539CFF;
+    color: #FCF6F5FF;
 }
 
 h2,
@@ -19,7 +19,7 @@ h2,
 }
 
 a {
-    color: darkseagreen;
+    color: #FCF6F5FF;
     text-decoration: none;
 }
 
